@@ -39,3 +39,17 @@ Make a numpad like keyboard for common CAD shortcuts so hands do not have to mov
 - I also started skimming through some pre-existing keyboard desgins on google and extended numpad or ergonomic style half keyboard designs seem promising but I need to nail down requirements before starting design.
 
 ** Aprox 1hr **
+
+### May 26
+- Created a spreadsheet for all the shortucts I want the keyboard to be able to produce
+- Messed around with grouping 2 shortcuts per key reduce the number of keys required
+    - 2 per key still requires 23 keys before even considering adding numbers
+- Adding a numpad does not seem viable at this time, 3 contexts may be required rather then 2 to have it without it being the size of a full keyboard.
+- I am currently leading towards the half keyboard design because it is still relitively small compared to a full sized keyboard but provides more keys with easier access then a numpad style.
+- I belive that I will have to 3dp many test layouts before I find the best one.
+
+
+![alt text](image.png)
+![alt text](image-1.png)
+
+** Aprox 0.5hr **
