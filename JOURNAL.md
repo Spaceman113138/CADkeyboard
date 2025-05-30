@@ -53,3 +53,30 @@ Make a numpad like keyboard for common CAD shortcuts so hands do not have to mov
 ![alt text](image-1.png)
 
 ** Aprox 0.5hr **
+
+### May 29
+- I did some research on mechanical keyboards
+    - https://www.keyboard.university/100-courses was very helpful for the basics and there was one page with pictures of differnt ways to mount the pcb to the case which I suspect will be helpful when desiging the case
+    - A few websites about keycaps and switches however much more research will be required before picking a style because there are far more types of each then I ever imagined there could be
+    - https://www.youtube.com/watch?v=7LyziNdFlew watched this video as an intro on how to design the pcb for the keyboard
+    - https://www.youtube.com/watch?v=7LyziNdFlew this was just a very cool video which ended up mostly being about the usb protocal for the keyboard
+
+- I also printed out some basic test keyboard layouts with keycaps from here https://www.thingiverse.com/thing:4593219 so I could see what felt better
+
+    - Numpad style (image rotated 90 deg for some reason)![alt text](IMG_4117.jpeg)
+        - Was not very comfortabe
+        - I don't think there is any possible way to get the number of keys that I want on to this style and still have it be useable. 
+        - Space is less of a constraint then I want so its smaller size is less of an advantage
+        - Rectangular style makes it easier to design
+
+    -Half Keyboard style (image also rotated 90 deg for some reason)![alt text](IMG_4116.jpeg)
+        - Is likeley to be able to fit the number of necessary keys (Another column to the left for the pinky can easily be used)
+        - Currently the thumb keys are too far and hard to reach
+        - Lower row can be hard to reach
+        - Feels more comfortable for my hand
+
+- At this point I don't see a good reason not to go with the half keyboard design since it fits all requirements and the numpad style does not.
+    - More testing is needed to improve placement of the thumb keys
+    - I want to test out making clear groupings of keys
+
+** About 2-2.5 hrs **
