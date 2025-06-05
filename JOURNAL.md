@@ -80,3 +80,30 @@ Make a numpad like keyboard for common CAD shortcuts so hands do not have to mov
     - I want to test out making clear groupings of keys
 
 ** About 2-2.5 hrs **
+
+### June 4
+- I took a break to work on other projects but paid attention to how I used shortcuts while cading
+    - It will be very inconvinient to not have most sketch shortcuts avalible without having to hold a modifier key
+    - Having the ablility to do numpad inputs will be a necessity so I don't have to constantly switch between this keyboard and main for num inputs
+    - Shortcuts have very little benefit outside of sketching. The majority of cad time is spent sketching and the only useful shortcuts in assemblys is the standard mate + visablitiy.
+
+- With this in mind I made another prototype layout that I think is the best one yet.
+    - It has 21 keys all in easy reach
+    - 9 additional thumb keys
+    - fairly confortable
+    - One downside is that about 3 keys are a bit of a stretch to reach
+- The current idea with this current prototype is to have some of the thumb keys act like a caps lock to switch between contexts. For example...
+    - A sketch context
+    - A Part Studio + Assembly context
+    - A numpad context
+
+- I started this prototype by drawing out designs on a white board and adjusting them until I ended up with this
+![alt text](IMG_4126.jpg)
+
+- Then I laided it out in cad and printed it to test it out irl and to scale. ![alt text](IMG_4127.jpg)
+
+- The only thing to change with this design is to replace the thumb keys with a 3x3 set of keys centered around the bottom left key to make them easier to reach and press.
+
+- The next step now is to make a shortcut layout that I like to ensure that this design will work.
+
+** About 45 min **
