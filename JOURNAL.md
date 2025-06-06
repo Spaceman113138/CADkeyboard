@@ -107,3 +107,7 @@ Make a numpad like keyboard for common CAD shortcuts so hands do not have to mov
 - The next step now is to make a shortcut layout that I like to ensure that this design will work.
 
 ** About 45 min **
+
+### June 5
+
+- Planned out all the keybinds. While I'm sure they'll end up changing, it works to move on to the rest of ther projects. ![alt text](image-2.png) ![alt text](image-3.png) ![alt text](image-4.png)
