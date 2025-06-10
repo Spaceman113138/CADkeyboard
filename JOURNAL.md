@@ -111,3 +111,14 @@ Make a numpad like keyboard for common CAD shortcuts so hands do not have to mov
 ### June 5
 
 - Planned out all the keybinds. While I'm sure they'll end up changing, it works to move on to the rest of ther projects. ![alt text](image-2.png) ![alt text](image-3.png) ![alt text](image-4.png)
+
+** About 30 min **
+
+### June 6,7,9
+
+- I spent a lot of time trying to research what microcontroller and firmware I need to make this project work. Unfortunetly there was a lot of information that I struggled to wrap my head around. I knew from the start that I wanted a full board rather then just a chip so that I could solder it far easier despite the larger size it entialed. With this it seemed like the main options were the Arduino Nano, Teensy, and Pi pico. On the firmware side I did not find very many options. I started by searching for information on manually programing it, but I was unable to find any info on how to do this. Therefore, I moved on to searching libraries and QMK was pretty much the only result. By decideing to use QMK I am restricting myself to useing only supported microcontrolers which include the Teensy and Pi pico. I ended up deciding on using the Pi because there was a lot of info about it on the QMK website, had all the IO I needed, and could be bought really easily. The only downside of using it is that it uses a USB B micro port instead of a more standard USB C.
+
+- After chosing the microcontroller and firmware I moved on to desiging the PCB. I decided to use KiCad for this because it is free and has a lot of info online about it. This was the first PCB I have ever designed and I found there to be quite a bit of a learing curve to the proccess. I leaned heavily on this video: https://www.youtube.com/watch?v=iznKltVU1yw&t=2375s to design the board. The biggest struggle for me was making the rotated sections becuase KiKad really only deals with 90deg incriments with the occasional 45deg. This resulted in me needing to design these segments alligned with the grid then rotating it before finaly draging it into positon. Overall designing this board has been a great experience and a very useful skill to begin to learn.
+![alt text](image-5.png)
+![alt text](image-6.png)
+![alt text](image-7.png)
