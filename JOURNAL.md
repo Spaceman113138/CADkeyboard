@@ -122,3 +122,19 @@ Make a numpad like keyboard for common CAD shortcuts so hands do not have to mov
 ![alt text](image-5.png)
 ![alt text](image-6.png)
 ![alt text](image-7.png)
+
+** About 8hrs **
+
+### June 12
+
+- Today I worked on creating the case for the pcb to be housed in. I plan for the case to be entirely 3d printed because that is the manufacturing capability I have ability.
+![alt text](image-8.png)
+- This is what I ended up creating, made up of 4 pieces
+    - The base piece houses the pcb and the cover
+    ![alt text](image-9.png)
+    - Then there are 2 pieces to hold the switches
+    ![alt text](image-10.png)
+    - And finaly a cover to make it look nicer
+    ![alt text](image-11.png)
+
+- In the end I don't love this design. The cover is barely held on and the more I mess around with this layout the less comfortable it feels to use. To this end, I'm going to work on new better layouts.
